@@ -2,7 +2,7 @@
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 
 # Introduction
-The House of Brandstracts, Inc (HOB) is a corporation in the cannabis industry that focuses on manufacturing and distributing hemp-derived cannabis products. We are developing an application that will assist Brandstracts in determining the amount of products to make in order to maximize profit based on expenditures. This open source program utilizes constrained optimization libraries in which its output is displayed through a Graphical User Interface. We formulated equations for cost and revenue with the goal of determining the combination of products that maximizes profit. To test our results, we created understandable and applicable toy problems. This application is vital for any business that wants to minimize costs, improve their profits, and make more informed business decisions.
+We are developed an application that will assist companies in determining the amount of products to make in order to maximize profit based on expenditures. This open source program utilizes constrained optimization libraries in which its output is displayed through a Graphical User Interface. We formulated equations for cost and revenue with the goal of determining the combination of products that maximizes profit. To test our results, we created understandable and applicable toy problems. This application is vital for any business that wants to minimize costs, improve their profits, and make more informed business decisions.
 
 # Table of Contents
 - [Introduction](#introduction)
