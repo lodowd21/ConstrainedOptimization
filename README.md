@@ -6,7 +6,6 @@ We are developed an application that will assist companies in determining the am
 
 # Table of Contents
 - [Introduction](#introduction)
-- [Executable](#executable)
 - [Visuals](#visuals)
    + [Error Codes](#error-codes)
 - [GUI Buttons](#gui-options)
